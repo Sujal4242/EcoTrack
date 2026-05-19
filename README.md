@@ -2,7 +2,7 @@
 
 EcoTrack is a full-stack web application that helps businesses track, 
 log, manage, and report electronic waste disposal in compliance with 
-India's E-Waste Management Rules 2022.
+India's E-Waste Management Rules.
 
 ## Tech Stack
 - Frontend: React 19, Vite, Tailwind CSS, Privy Auth, Recharts
