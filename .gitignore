@@ -1,0 +1,16 @@
+# Dependencies
+node_modules/
+client/node_modules/
+server/node_modules/
+
+# Environment variables (KEEP SECRET)
+.env
+client/.env
+server/.env
+
+# Build output
+client/dist/
+
+# OS files
+.DS_Store
+Thumbs.db
